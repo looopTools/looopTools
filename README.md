@@ -2,6 +2,14 @@
 
 I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/).
 
+<div id="badges">
+    <a href="https://www.linkedin.com/in/lars-nielsen-47540b3b/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/looopTools">
+        <img src="https://img.shields.io//twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter"/>
+    </a>
+</div>
 
 <!--
 **looopTools/looopTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ 
