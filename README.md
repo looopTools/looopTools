@@ -7,7 +7,7 @@ I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/query
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/looopTools">
-        <img src="https://img.shields.io//twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter"/>
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
 
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://shields.io/category/coverage
 -->
  
  
