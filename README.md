@@ -1,6 +1,10 @@
 # Software Engineer and Researcher working in the shadows of backend 
 
-I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/).
+*This page is under construction*
+
+Hello I am Lars Nielsen (a.k.a looopTools) and I am Software Engineer and Research focusing on backend development, systems and API design.
+I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/) an open source SQL query build for modern C++.
+
 
 <div id="badges", align="center">
     <a href="https://www.linkedin.com/in/lars-nielsen-47540b3b/">
