@@ -1,4 +1,7 @@
-### Hi there 👋
+# Software Engineer and Researcher working in the shadows of backend 
+
+I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/).
+
 
 <!--
 **looopTools/looopTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
