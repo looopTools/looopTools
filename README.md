@@ -2,7 +2,7 @@
 
 I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/).
 
-<div id="badges">
+<div id="badges", align="center">
     <a href="https://www.linkedin.com/in/lars-nielsen-47540b3b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
