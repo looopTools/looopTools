@@ -17,9 +17,9 @@ I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/query
 
 # Current Position: Software Engineer at CIM A/S
 
-I am currently working as a Full Stack Developer where contribute to the development of an IoT data collection platform which combines both edge data collection and data analysis. My main focus is data collection and enabling collection from as many devices as possible. 
+I am currently working as a Software Engineer (Full Stack) where contribute to the development of an IoT data collection platform which combines both edge data collection and data analysis. My main focus is data collection and enabling collection from as many devices as possible. 
 
-# PhD - Generalized Deduplication in Practices (not the real title) 
+# PhD - Scalable Storage for Massive Volume Data Systems
 
 I coundcted my PhD under the supervison of [Professor Daniel Lucani](https://pure.au.dk/portal/en/persons/daniel-enrique-lucani-roetter(c4e78b1e-4dd6-460f-9c44-1a44771ce01a).html) at Aarhus University, Department of Electrical and Computer Engineering. 
 
