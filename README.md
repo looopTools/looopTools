@@ -15,7 +15,7 @@ I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/query
     </a>
 </div>
 
-# Current Position: Full Stack Developer at CIM A/S
+# Current Position: Software Engineer at CIM A/S
 
 I am currently working as a Full Stack Developer where contribute to the development of an IoT data collection platform which combines both edge data collection and data analysis. My main focus is data collection and enabling collection from as many devices as possible. 
 
