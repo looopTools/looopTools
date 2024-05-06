@@ -3,7 +3,7 @@
 *This page is under construction*
 
 Hello I am Lars Nielsen (a.k.a looopTools) and I am Software Engineer and Researcher focusing on backend development, systems and API design.
-I am the author and maintainer of [QueryC++](https://gitlab.com/looopTools/querycpp/) an open source SQL query build for modern C++.
+I am the author and maintainer of [QueryC++](https://codeberg.org/ObsidianWolfLabs/querycpp) an open source SQL query build for modern C++.
 
 
 <div id="badges", align="center">
