@@ -13,6 +13,9 @@ I am the author and maintainer of [QueryC++](https://codeberg.org/ObsidianWolfLa
     <a href="https://twitter.com/looopTools">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    https://img.shields.io/mastodon/follow/1220979
+
+<a href="https://img.shields.io/mastodon/follow/1220979"></a>
     <a href="https://mastodon.social/@looopTools">
         <img src="https://img.shields.io/badge/mastodon?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
     </a>    
