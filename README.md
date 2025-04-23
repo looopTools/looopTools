@@ -23,9 +23,9 @@ I am the author and maintainer of [QueryC++](https://codeberg.org/ObsidianWolfLa
 
 # PhD - Scalable Storage for Massive Volume Data Systems
 
-I coundcted my PhD under the supervison of [Professor Daniel Lucani](https://pure.au.dk/portal/en/persons/daniel-enrique-lucani-roetter(c4e78b1e-4dd6-460f-9c44-1a44771ce01a).html) at Aarhus University, Department of Electrical and Computer Engineering. 
+I conducted my PhD under the supervision of [Professor Daniel Lucani](https://pure.au.dk/portal/en/persons/daniel-enrique-lucani-roetter(c4e78b1e-4dd6-460f-9c44-1a44771ce01a).html) at Aarhus University, Department of Electrical and Computer Engineering. 
 
-My research focused on designing, implementing, and evaluating the worlds first object data storage and the world first file system (it was FUSE based) utilising Generalized Deduplication as data compression technique. Additionally I designed one of the first protocols with build in support for Generalized Deduplication and classic deduplication in hop-by-hop networks 
+My research focused on designing, implementing, and evaluating the world's first object data storage and the world's first file system (it was FUSE based) utilising Generalized Deduplication as a data compression technique. Additionally, I designed one of the first protocols with built-in support for Generalized Deduplication and classic deduplication in hop-by-hop networks 
 
 <!--
 **looopTools/looopTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
